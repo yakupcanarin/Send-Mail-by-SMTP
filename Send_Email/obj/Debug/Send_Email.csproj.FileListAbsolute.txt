@@ -1,0 +1,10 @@
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\bin\Debug\Send_Email.exe.config
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\bin\Debug\Send_Email.exe
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\bin\Debug\Send_Email.pdb
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.csprojResolveAssemblyReference.cache
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.Form1.resources
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.Properties.Resources.resources
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.csproj.GenerateResource.Cache
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.csproj.CoreCompileInputs.cache
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.exe
+C:\Users\ykpcn\Documents\Visual Studio 2017\Projects\Send_Email\Send_Email\obj\Debug\Send_Email.pdb
